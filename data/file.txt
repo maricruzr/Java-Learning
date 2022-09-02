@@ -1,3 +1,0 @@
-hello today we are learning FileWriter class
-some more text.
-try
